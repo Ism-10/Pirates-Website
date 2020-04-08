@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(196, 196, 196);
+}
+
+.body {
+    font-family:rubik ;
+   
+
+}
+
+h1 {
+ color: #744ba3;
+ padding-top: 20px;
+ padding-left: 30px;
+ padding-bottom: 10px;
+
+
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+.commet > div {
+    float: left;
+    width: 48%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+
+    
+} 
+
+
+.card {
+
+    width: 400px;
+    border-color:#744ba3; 
+    border-style: solid;
+    border-width: 2px;
+   
+}
+
+.card-title {
+    color: #744ba3;
+    font-weight: bolder;
+}
+
+.card-text {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.card:hover {
+    cursor: pointer;
+    background-color: rgb(226, 223, 223);
+}
+
